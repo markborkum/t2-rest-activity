@@ -1,4 +1,9 @@
+*.DS_Store
+*.svn
+
 *.class
+
+surefire*tmp
 
 # Package Files #
 *.jar
